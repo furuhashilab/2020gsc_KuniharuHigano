@@ -16,23 +16,22 @@
 
 © Furuhashi Laboratory/Kuniharu　Higano, CC BY 4.0
 
-# 全体構成(IMRAD形式) 序論: What are you studying and why? 何を研究したのか？ 何故それを研究したのか？(500文字以内で簡単に記述する)
+# Introduction
 
 GPS　Drawingを使ってサカナクションの「アルクアラウンド」の歌詞を表現する。きっかけは私がサカナクションの山口一郎さんとインスタライブコラボしたことである。サカナクションと日向野邦春という一生切っても切り離せない関係を表すためにこの課題に取り組んだ。
 
-# 研究方法: What did you do? 具体的には何をしたのか？(500文字以内で簡単に記述する)
+# Methods
 
 地図上で歌詞にあった道を見つけてStravaを起動させて歩いていく。一文字ずつ切り離して表現していくためその都度新しいランニングやウォーキングを作成する。出来るだけ道の上で表現したいが、夜や新などの難しい漢字は公園などで歩いて表現していく。その後はStravaからGPXファイルを抽出してMapboxにアップロードする。そしてこの画面をスクリーンショットしてiMovieで音声を付けながら動画作成していく。とりあえず歩く道を決めるためにgeojson.ioでラインを作ってみる。それをGeojsonファイルで抽出してMapboxに表示させる。
 (3年生でのゴールは1番までのルート策定と動画作成）
 
-# 研究結果: What did you find? 何がわかるのか? (500文字以内で簡単に記述する)
+# Results
 
 ただでさえ文字を表現するのは難しいのだが、漢字を表現するのはさらに難しくなってくる。しかし、Mapboxに表示させる場合はレイヤーごとに分けて表示できるため「へん」と「作り」で分けて歩いて表示できることに気がついた。
 
+# 考察: What do your findings mean? 
 
-# 考察: What do your findings mean? あなたが見つけたことは何を意味するのか？どんな議論をしたか。(500文字以内で簡単に記述する)
-
-# まとめ: What have you learned from the study? この研究を通じて得られたものは？次に引き継ぐべき課題は？(500文字以内で簡単に記述する)
+# まとめ: What have you learned from the study? 
 
 # 参考文献: 
 http://gpsdrawing.info/ https://youtu.be/2y93FpQ32z4　https://youtu.be/ifk2PTJromg
