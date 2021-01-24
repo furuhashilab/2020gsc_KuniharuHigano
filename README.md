@@ -17,3 +17,4 @@
 © Furuhashi Laboratory/Kuniharu　Higano, CC BY 4.0
 
 # ゼミ論本文
+https://github.com/furuhashilab/2020gsc_KuniharuHigano/blob/master/graduation.md
