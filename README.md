@@ -43,3 +43,6 @@ https://youtu.be/ifk2PTJromg
 
 # プレゼンスライド 
 https://docs.google.com/presentation/d/1fWd7xpNzOz5NpWgCakVSRwyIfxHfZVovsEYrkeZeEV0/edit?usp=sharing
+
+# プロジェクトリンク
+https://github.com/furuhashilab/sotsuron2020/projects/14
