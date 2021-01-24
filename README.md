@@ -33,7 +33,9 @@ GPS　Drawingを使ってサカナクションの「アルクアラウンド」�
 # Conclusion
 
 # 参考文献: 
-http://gpsdrawing.info/ https://youtu.be/2y93FpQ32z4　https://youtu.be/ifk2PTJromg
+http://gpsdrawing.info/ 
+https://youtu.be/2y93FpQ32z4　
+https://youtu.be/ifk2PTJromg
 
 
 
