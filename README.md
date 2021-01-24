@@ -29,7 +29,6 @@ GPS　Drawingを使ってサカナクションの「アルクアラウンド」�
 
 ただでさえ文字を表現するのは難しいのだが、漢字を表現するのはさらに難しくなってくる。しかし、Mapboxに表示させる場合はレイヤーごとに分けて表示できるため「へん」と「作り」で分けて歩いて表示できることに気がついた。
 
-https://github.com/furuhashilab/2020gsc_KuniharuHigano/issues/1#issuecomment-766289304
 
 # Conclusion
 
