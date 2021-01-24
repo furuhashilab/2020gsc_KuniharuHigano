@@ -41,5 +41,5 @@ http://gpsdrawing.info/
 https://youtu.be/2y93FpQ32z4　
 https://youtu.be/ifk2PTJromg
 
-
-
+# プレゼンスライド 
+https://docs.google.com/presentation/d/1fWd7xpNzOz5NpWgCakVSRwyIfxHfZVovsEYrkeZeEV0/edit?usp=sharing
