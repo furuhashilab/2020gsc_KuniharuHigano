@@ -24,14 +24,15 @@ MapboxstudioにGPXファイルをアップロードした後にはレイヤー�
 このゼミ論は4年生に持ち越すことを最初から想定していたが、あまりにも行う作業が多いことを改めて痛感した。特に漢字の表現は道上で行おうとするとルート策定からかなりの時間がかかってしまう。今のところGPX形式で表現できているのは10文字程度であるが1番だけでも制覇できれば2番は一部を変えれば応用できる。これからの課題としてはこのプロジェクトをサカナクションファン全体で作り上げることができれば良いと考えている。現在は作成段階であるがこのゼミ論をまとめたスライドを公開して多くのサカナクションファンの方々にシェアしていただければと考えている。そうすることによって私だけでなく他の人々の知恵も加わりより良い作品が出来上がると思う。
 
 # 先行研究
+猪苗代湖ズ / I love you & I need you ふくしま [MORE ACTION, MORE HOPE]
 https://youtu.be/sQEVUsHt1Bk
-
+沖縄ファミリーマート 国道508号線「結」特別編　180秒CM
 https://youtu.be/pUPWhE2Cm4s
-
+THE BOOM 島唄　PV　20周年記念 ver
 https://youtu.be/Oq9RkXOyFnY
-
+Stand By Me | Playing For Change | Song Around The World
 https://youtu.be/Us-TVg40ExM
-
+Mela! - 全国のアカペラ2年生 & 緑黄色社会
 https://youtu.be/bKkXOdZrXVY
 # 参考文献リスト 
 https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
