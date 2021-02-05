@@ -33,10 +33,8 @@ https://youtu.be/Oq9RkXOyFnY
 https://youtu.be/Us-TVg40ExM
 
 https://youtu.be/bKkXOdZrXVY
-# 参考文献: 
-http://gpsdrawing.info/ 
-https://youtu.be/2y93FpQ32z4　
-https://youtu.be/ifk2PTJromg
+# 参考文献リスト 
+https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
 
 # プレゼンスライド 
 https://docs.google.com/presentation/d/1fWd7xpNzOz5NpWgCakVSRwyIfxHfZVovsEYrkeZeEV0/edit?usp=sharing
