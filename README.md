@@ -21,3 +21,6 @@ https://github.com/furuhashilab/2020gsc_KuniharuHigano/blob/master/graduationthe
 
 # プレゼンスライド
 https://docs.google.com/presentation/d/1fWd7xpNzOz5NpWgCakVSRwyIfxHfZVovsEYrkeZeEV0/edit?usp=sharing
+
+# 参考文献リスト
+https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
