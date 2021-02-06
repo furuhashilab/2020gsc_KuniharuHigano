@@ -20,7 +20,7 @@
 https://github.com/furuhashilab/2020gsc_KuniharuHigano/blob/master/graduationthesis.md
 
 # プレゼンスライド
-https://docs.google.com/presentation/d/1fWd7xpNzOz5NpWgCakVSRwyIfxHfZVovsEYrkeZeEV0/edit?usp=sharing
+https://docs.google.com/presentation/d/1BmiZZSPXOxaUDzuH0ccTbmLPn1Q2Kt58Dh2Kt8SILg8/edit?usp=sharing
 
 # 参考文献リスト
-https://docs.google.com/spreadsheets/d/1g2eXWUpb1BTOZNJHFsx37w00CYwMpBDHIwD3CEFXTY8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1EwiGDIlZEOX5CldNgp9Hcj3ZV0OVp-SF2NardSfsjiQ/edit?usp=sharing
