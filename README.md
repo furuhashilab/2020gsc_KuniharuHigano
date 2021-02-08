@@ -24,3 +24,5 @@ https://docs.google.com/presentation/d/1BmiZZSPXOxaUDzuH0ccTbmLPn1Q2Kt58Dh2Kt8SI
 
 # 参考文献リスト
 https://docs.google.com/spreadsheets/d/1EwiGDIlZEOX5CldNgp9Hcj3ZV0OVp-SF2NardSfsjiQ/edit?usp=sharing
+# プロジェクトリンク
+https://github.com/furuhashilab/sotsuron2020/projects/14
